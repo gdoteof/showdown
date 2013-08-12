@@ -1,7 +1,6 @@
 <?php
 require_once 'lib/limonade.php';
 
-$db_name = 'showdown';
 $db_user = 'root';
 $db_pass = '';
 
