@@ -2,7 +2,7 @@
 require_once 'lib/limonade.php';
 
 $db_user = 'root';
-$db_pass = '';
+$db_pass = 'x';
 
 $db_r = mysql_connect('localhost', $db_user, $db_pass);
 
